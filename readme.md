@@ -1,6 +1,6 @@
 # Prediksi Gagal Jantung
 
-![Jantung](Prediksi%20Gagal%20Jantung%202467ace24daa499b8cafdf835f5762e7/Untitled.png)
+![Jantung](./img/heart.png)
 
 ## Pendahuluan
 
